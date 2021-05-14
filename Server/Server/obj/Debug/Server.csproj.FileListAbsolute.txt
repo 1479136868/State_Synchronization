@@ -1,0 +1,70 @@
+Z:\1805VR\day03\chat\Server\Server\bin\Debug\Server.exe.config
+Z:\1805VR\day03\chat\Server\Server\bin\Debug\Server.exe
+Z:\1805VR\day03\chat\Server\Server\bin\Debug\Server.pdb
+Z:\1805VR\day03\chat\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+Z:\1805VR\day03\chat\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+Z:\1805VR\day03\chat\Server\Server\obj\Debug\Server.exe
+Z:\1805VR\day03\chat\Server\Server\obj\Debug\Server.pdb
+Z:\1805VR\day04\chat\Server\Server\bin\Debug\Server.exe.config
+Z:\1805VR\day04\chat\Server\Server\bin\Debug\Server.exe
+Z:\1805VR\day04\chat\Server\Server\bin\Debug\Server.pdb
+Z:\1805VR\day04\chat\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+Z:\1805VR\day04\chat\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+Z:\1805VR\day04\chat\Server\Server\obj\Debug\Server.exe
+Z:\1805VR\day04\chat\Server\Server\obj\Debug\Server.pdb
+Z:\1805VR\day05\chat\Server\Server\bin\Debug\Server.exe.config
+Z:\1805VR\day05\chat\Server\Server\bin\Debug\Server.exe
+Z:\1805VR\day05\chat\Server\Server\bin\Debug\Server.pdb
+Z:\1805VR\day05\chat\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+Z:\1805VR\day05\chat\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+Z:\1805VR\day05\chat\Server\Server\obj\Debug\Server.exe
+Z:\1805VR\day05\chat\Server\Server\obj\Debug\Server.pdb
+Z:\1805VR\day06\chat\Server\Server\bin\Debug\Server.exe.config
+Z:\1805VR\day06\chat\Server\Server\bin\Debug\Server.exe
+Z:\1805VR\day06\chat\Server\Server\bin\Debug\Server.pdb
+Z:\1805VR\day06\chat\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+Z:\1805VR\day06\chat\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+Z:\1805VR\day06\chat\Server\Server\obj\Debug\Server.exe
+Z:\1805VR\day06\chat\Server\Server\obj\Debug\Server.pdb
+Z:\1805VR\day08\chat\Server\Server\bin\Debug\Server.exe.config
+Z:\1805VR\day08\chat\Server\Server\bin\Debug\Server.exe
+Z:\1805VR\day08\chat\Server\Server\bin\Debug\Server.pdb
+Z:\1805VR\day08\chat\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+Z:\1805VR\day08\chat\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+Z:\1805VR\day08\chat\Server\Server\obj\Debug\Server.exe
+Z:\1805VR\day08\chat\Server\Server\obj\Debug\Server.pdb
+Z:\1805VR\day09\chat\Server\Server\bin\Debug\Server.exe.config
+Z:\1805VR\day09\chat\Server\Server\bin\Debug\Server.exe
+Z:\1805VR\day09\chat\Server\Server\bin\Debug\Server.pdb
+Z:\1805VR\day09\chat\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+Z:\1805VR\day09\chat\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+Z:\1805VR\day09\chat\Server\Server\obj\Debug\Server.exe
+Z:\1805VR\day09\chat\Server\Server\obj\Debug\Server.pdb
+Z:\1805VR\day10\chat\Server\Server\bin\Debug\Server.exe.config
+Z:\1805VR\day10\chat\Server\Server\bin\Debug\Server.exe
+Z:\1805VR\day10\chat\Server\Server\bin\Debug\Server.pdb
+Z:\1805VR\day10\chat\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+Z:\1805VR\day10\chat\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+Z:\1805VR\day10\chat\Server\Server\obj\Debug\Server.exe
+Z:\1805VR\day10\chat\Server\Server\obj\Debug\Server.pdb
+Z:\1805VR\day11\chat\Server\Server\bin\Debug\Server.exe.config
+Z:\1805VR\day11\chat\Server\Server\bin\Debug\Server.exe
+Z:\1805VR\day11\chat\Server\Server\bin\Debug\Server.pdb
+Z:\1805VR\day11\chat\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+Z:\1805VR\day11\chat\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+Z:\1805VR\day11\chat\Server\Server\obj\Debug\Server.exe
+Z:\1805VR\day11\chat\Server\Server\obj\Debug\Server.pdb
+Z:\1805VR\day12\chat\Server\Server\bin\Debug\Server.exe.config
+Z:\1805VR\day12\chat\Server\Server\bin\Debug\Server.exe
+Z:\1805VR\day12\chat\Server\Server\bin\Debug\Server.pdb
+Z:\1805VR\day12\chat\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+Z:\1805VR\day12\chat\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+Z:\1805VR\day12\chat\Server\Server\obj\Debug\Server.exe
+Z:\1805VR\day12\chat\Server\Server\obj\Debug\Server.pdb
+C:\Users\Mr.武\Desktop\位置同步 聊天 公聊 私聊 好友列表 网络框架 pb\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Mr.武\Desktop\位置同步 聊天 公聊 私聊 好友列表 网络框架 pb\Server\Server\bin\Debug\Server.exe
+C:\Users\Mr.武\Desktop\位置同步 聊天 公聊 私聊 好友列表 网络框架 pb\Server\Server\bin\Debug\Server.pdb
+C:\Users\Mr.武\Desktop\位置同步 聊天 公聊 私聊 好友列表 网络框架 pb\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Mr.武\Desktop\位置同步 聊天 公聊 私聊 好友列表 网络框架 pb\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Mr.武\Desktop\位置同步 聊天 公聊 私聊 好友列表 网络框架 pb\Server\Server\obj\Debug\Server.exe
+C:\Users\Mr.武\Desktop\位置同步 聊天 公聊 私聊 好友列表 网络框架 pb\Server\Server\obj\Debug\Server.pdb

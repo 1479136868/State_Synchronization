@@ -1,0 +1,29 @@
+syntax = "proto3";  //代表声明pb使用的语法版本是3.0
+
+package myGame;
+////客户端----》服务器  
+///服务器进行转发。  同步的消息
+message  SyncMsg
+{
+	int32 userid = 1;  //发送者的Id
+	Vec3 pos = 2;  //目标位置。
+	Vec3 crtPos = 3;  //现在的位置。
+	Vec3 vel = 4;
+	Vec3 rotation = 5;
+	
+	 
+}
+
+///代表位置，速度、朝向的向量消息
+message Vec3
+{
+	float x = 1;
+	float y = 2;
+	float z = 3;
+}
+
+
+
+
+
+

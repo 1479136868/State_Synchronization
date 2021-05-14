@@ -1,0 +1,50 @@
+syntax = "proto3";  //代表声明pb使用的语法版本是3.0
+
+package myGame;
+////客户端----》服务器  
+///服务器进行转发。   聊天消息
+message  ChatMsg
+{
+	string fromName = 1;  //发送者的名字。
+	int32 fromID = 2;  //发送者的Id
+	string toName = 3;
+	int32 toID = 4;
+	string msg = 5;  //聊天的话
+	ChatType chatType = 6;   //聊天的类型。	 
+}
+
+//聊天类型
+enum ChatType
+{
+	PublicChat=0;
+	PrivateChat =1;
+
+}
+
+/////==================================
+///客户端---》服务器-发送的消息。请求在线的人员名单
+message RequestOnlineRoleListMsg
+{
+	int32 userid = 1;
+}
+
+///服务器----》客户端发送的消息。在线的人员名单数据
+message OnlineRoleListMsg
+{
+	repeated RoleMsg  roleList =1;
+}
+
+///代表一个已经登录用户的信息
+message RoleMsg
+{
+	int32 userid = 1;
+	string username = 2;
+	int32 lv = 3;
+	int32 exp = 4;
+	
+}
+
+
+
+
+
